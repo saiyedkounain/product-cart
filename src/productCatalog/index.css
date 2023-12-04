@@ -1,0 +1,13 @@
+li {
+    justify-content: space-between;
+    
+}
+li p {
+    flex-grow: 1;
+}
+
+li img {
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
