@@ -92,7 +92,7 @@ const Products = () => {
         alert("Total Price is $" + totalPrice + " for " + cartList.length + " items")
       }}><b>Proceed</b> </button>
 
-      <button className='btn btn-success'>ff</button>
+      
     </div>
   )
 }
